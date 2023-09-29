@@ -10,3 +10,4 @@ potentiometer pin config-->1st pin:5 vol
 This are the pin config.If you find a way to fix it pls msg me in discord.My username is og_Nikto 
 This code is free to use.
 vjoy and vjoyfeeder is required 
+It is inspired by PGDR
